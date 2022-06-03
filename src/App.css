@@ -1,0 +1,15 @@
+.completed {
+text-decoration: line-through;
+opacity: 0.5;
+}
+
+body{
+    background-color: rgb(232, 232, 232);
+}
+
+.todo{
+
+display:flex;
+
+}
+
